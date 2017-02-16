@@ -1,7 +1,8 @@
 # Comp585
 Serious Game for Visually Impaired
 
-Week 2 Tasks:
+
+Goals for next week: Work on game design and implementation, reach out to Nirjon and Diane, and begin working on the documentation. Design interface. Basic wireframes for views.
 
 
 Goal of the game: To help blind people learn to map out new indoor environments through a fun and interactive game.
@@ -56,7 +57,4 @@ Asset Creation - Brandon, Daniel
 
 Assets: Sound which will be obtained through pre-existing online sources.
 Environment: Tentatively Android Studio and GitHub Repository for code sharing using Eddystone and the Google Beacon Platform
-
-
-Goals for next week: Nail down implementation of game, reach out to Nirjon and Diane, and begin working on the documentation and implementation. Research ways to implement indoor tracking using phones and beacons. 
 
