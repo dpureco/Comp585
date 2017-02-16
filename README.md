@@ -41,10 +41,9 @@ game design document editor - Daniel
 project manager (the person who makes sure that everyone knows what is due when and that the team is using their resources wisely and not 
 duplicating effort) - Brandon
 
-Level Design - Katie
+Difficulty Mechanics - Katie
 
-
-Game Design - Daniel
+Game Mechanics - Daniel
 
 Sound Design - Brandon
 
